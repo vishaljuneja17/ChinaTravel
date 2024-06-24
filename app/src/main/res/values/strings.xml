@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChinaTravel</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="dilchin">Dlilchin</string>
+    <string name="somethingWrong">Some thing has went wrong</string>
+    <string name="noConnection">No connection available !!</string>
+    <string name="turnOnInternet">Trun on the internet please.</string>
+    <string name="mobileData">Mobile data</string>
+    <string name="Wifi">Wifi</string>
+</resources>
